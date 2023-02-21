@@ -1,4 +1,4 @@
-FROM fedora:35
+FROM registry.access.redhat.com/ubi9/ubi
 
 LABEL maintainer="Sean Nelson <hyperkineticnerd@gmail.com>"
 LABEL build_date="2023-02-21"
